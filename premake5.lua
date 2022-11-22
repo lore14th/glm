@@ -13,10 +13,6 @@ project "glm"
 		"glm/**.inl"
 	}
 
-	sysincludedirs
-	{
-	}
-
 	defines 
 	{
 	}
